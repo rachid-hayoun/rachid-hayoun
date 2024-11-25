@@ -1,6 +1,6 @@
 <img align = center width="100%" src=https://github.com/user-attachments/assets/7b17957b-f56a-49af-b18b-6d9bbd598d1a>
 
-# 📝 Je suis un apprenti développeur Web
+# 📝 Je suis un apprenti développeur Web 🥇
 ## **Mes outils** :
 
 - HTML    <img align = center width="20px" src="https://github.com/user-attachments/assets/ac0c2205-e2d1-42a6-9419-32ae56a0de39">
@@ -31,8 +31,10 @@
 
 Véhiculé 🚗
 
-**Réseaux sociaux et plus**
+### **Réseaux sociaux et plus**
 
-<img align = center width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png"><a href=https://www.instagram.com/mugiwarachid/>Instagram</a>
+CV 
+
+Porte-folio
 
 
