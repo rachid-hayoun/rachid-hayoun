@@ -13,3 +13,12 @@
 <img src="file:///C:/Users/hayou/Desktop/p/MultiJob/fansite1.html">
 <img allign = center width=80% src="https://github.com/user-attachments/assets/e5ae6709-1ef2-474a-8c7e-42ac5eb26326">
 
+## **A propros de moi**
+Hobbies : Web Design, Jeux vidéos, Sports
+
+**Diplômes** :
+- Brevet des collèges
+- Baccalauréat Session Économique et sociale
+- Brevet d'Aptitude aux Fonctions d'Animateur
+
+Véhiculé 🚗
