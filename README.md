@@ -14,7 +14,7 @@
 <img allign = center width=80% src="https://github.com/user-attachments/assets/e5ae6709-1ef2-474a-8c7e-42ac5eb26326">
 
 ## **A propros de moi**
-Hobbies : Web Design, Jeux vidéos, Sports
+**Hobbies** : Web Design, Jeux vidéos, Sports
 
 **Diplômes** :
 - Brevet des collèges
@@ -22,3 +22,7 @@ Hobbies : Web Design, Jeux vidéos, Sports
 - Brevet d'Aptitude aux Fonctions d'Animateur
 
 Véhiculé 🚗
+0
+**Réseaux sociaux et plus**
+
+<img allign = center width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png"><a href="https://www.instagram.com/mugiwarachid/">Instagram</a>
