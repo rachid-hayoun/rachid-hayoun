@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device,initial-scale=1.0*">
     <link rel="stylesheet" href="">
+</head>
 <body>
 <img src="C:\Users\hayou\Downloads\Rachid HAYOUN.png">
-
 </body>
 </html>
