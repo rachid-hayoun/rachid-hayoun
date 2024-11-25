@@ -22,7 +22,10 @@
 - Brevet d'Aptitude aux Fonctions d'Animateur
 
 Véhiculé 🚗
-0
+
 **Réseaux sociaux et plus**
 
-<img allign = center width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png"><a href="https://www.instagram.com/mugiwarachid/">Instagram</a>
+<img allign = center width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png">
+<a href="hhttps://www.instagram.com/mugiwarachid/">Instagram</a>
+
+
