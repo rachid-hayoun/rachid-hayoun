@@ -1,6 +1,12 @@
 <!DOCTYPE html>
-<html lang="fr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device,initial-scale=1.0*">
+    <link rel="stylesheet" href="">
+    <title>Document</title>
 <body>
 <img src="C:\Users\hayou\Downloads\Rachid HAYOUN.png">
+
 </body>
-</html>
+</hearder>
