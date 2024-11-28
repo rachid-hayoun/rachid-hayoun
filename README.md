@@ -1,4 +1,4 @@
-<img align = center width="100%" src=https://github.com/rachid-hayoun/rachid-hayoun/blob/main/Rachid%20HAYOUN%20(2).mp4>
+<img align = center width="100%" src=https://github.com/rachid-hayoun/rachid-hayoun/blob/main/bangh.gif>
 
 # 📝 Je suis un apprenti développeur Web 🥇
 ## **Mes outils** 
