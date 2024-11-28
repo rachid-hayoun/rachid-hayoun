@@ -1,4 +1,4 @@
-<img align = center width="100%" src=https://github.com/rachid-hayoun/rachid-hayoun/blob/main/bangh.gif>
+<img align = center width="100%" src=https://github.com/user-attachments/assets/a0e6d13b-41fb-4819-8d02-5ad5eee3154f>
 
 # 📝 Je suis un apprenti développeur Web 🥇
 ## **Mes outils** 
@@ -10,7 +10,7 @@
 ## **Mes projets**
 ### **Projet HTML/CSS** <img allign = center width="20px" src="https://github.com/user-attachments/assets/ac0c2205-e2d1-42a6-9419-32ae56a0de39"> <img allign = center width="20px" src="https://github.com/user-attachments/assets/4891e5c5-4304-49d7-a8cb-6a3cd7d7a268"> 
 
-<img allign = center width=100% src="https://github.com/rachid-hayoun/rachid-hayoun/blob/main/video1.mp4">
+<img allign = center width=100% src="https://github.com/user-attachments/assets/5578a783-3377-4eb8-851f-544115ca79e0">
 
 <a href=https://github.com/rachid-hayoun/THE-FANSITE-/tree/The-FanSite>Lien du repository du Fansite
 ### **Projet PYTHON** <img align = center width="20px" src="https://github.com/user-attachments/assets/ae3b8154-a3d0-498a-b9ff-1755fe375d4d">
