@@ -1,6 +1,7 @@
-<img align = center width="100%" src=https://github.com/user-attachments/assets/a0e6d13b-41fb-4819-8d02-5ad5eee3154f>
+<img align = center width="100%" src=https://github.com/user-attachments/assets/aab31f5a-3212-4552-b700-d8d6b8c58235>
 
-# Je suis un apprenti DATA Analyst
+# Je suis un apprenti DATA Analyst!
+
 ## **Mes outils** 
 
 - HTML    <img align = center width="20px" src="https://github.com/user-attachments/assets/ac0c2205-e2d1-42a6-9419-32ae56a0de39">
