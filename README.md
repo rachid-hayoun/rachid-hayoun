@@ -9,6 +9,7 @@
 - PYTHON <img align = center width="20px" src="https://github.com/user-attachments/assets/ae3b8154-a3d0-498a-b9ff-1755fe375d4d">
 - PHP
 - SQL
+- Pygame
 
 ## **Mes projets**
 ### **Projet HTML/CSS**
