@@ -1,6 +1,6 @@
 <img align = center width="100%" src=https://github.com/user-attachments/assets/aab31f5a-3212-4552-b700-d8d6b8c58235>
 
-# Je suis un apprenti développeur logiciel
+# Je suis un étudiant en 1ère année Bachelor IT Développement Logiciel à la recherche d'une alternance pour Septembre 2025
 
 ## **Mes outils** 
 
