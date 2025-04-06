@@ -1,16 +1,18 @@
-<img align = center width="100%" src=https://github.com/user-attachments/assets/aab31f5a-3212-4552-b700-d8d6b8c58235>
+<img align = center width="100%" src=https://github.com/user-attachments/assets/030bc76b-caee-4ab6-aa0b-65b72b0426ad>
+
 
 # Étudiant en 1ère année Bachelor IT Développement Logiciel
 # Recherche d'une alternance pour Septembre 2025
 
 ## **Mes outils** 
-
-- HTML    <img align = center width="20px" src="https://github.com/user-attachments/assets/ac0c2205-e2d1-42a6-9419-32ae56a0de39">
-- CSS     <img align = center width="20px" src="https://github.com/user-attachments/assets/4891e5c5-4304-49d7-a8cb-6a3cd7d7a268">
-- PYTHON <img align = center width="20px" src="https://github.com/user-attachments/assets/ae3b8154-a3d0-498a-b9ff-1755fe375d4d">
-- PHP
+- C
+- PYTHON
 - SQL
-- Pygame
+- PHP
+- Tkinter/CustomTkinter
+- HTML   
+- CSS    
+
 
 ## **Mes projets**
 ### **Projet HTML/CSS**
