@@ -20,7 +20,9 @@
 <a href=https://github.com/rachid-hayoun/THE-FANSITE-/tree/The-FanSite>Lien du repository du Fansite
 
 <a href=https://github.com/christine-chemali/TicTacToe/blob/main/tictactoe.py>Lien du repository du Morpion</a>
- 
+
+<a href=https://github.com/rachid-hayoun/minesweeper>Lien du repository du Démineur</a>
+
 ## **A propros de moi**
 ### **HOBBIES** 
 - Web Design 🖥️
