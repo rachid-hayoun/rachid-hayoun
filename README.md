@@ -21,7 +21,7 @@
 
 <a href=https://github.com/christine-chemali/TicTacToe/blob/main/tictactoe.py>Lien du repository du Morpion</a>
 
-<a href=https://github.com/rachid-hayoun/minesweeper>Lien du repository du Démineur</a>
+<a href=https://github.com/rachid-hayoun/minesweeper/tree/Back-End-%F0%9F%94%91>Lien du repository du Démineur</a>
 
 ## **A propros de moi**
 ### **HOBBIES** 
