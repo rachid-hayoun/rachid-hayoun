@@ -10,6 +10,7 @@
 - SQL
 - PHP
 - Tkinter/CustomTkinter
+- Arduino
 - HTML   
 - CSS    
 
