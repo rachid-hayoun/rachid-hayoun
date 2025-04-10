@@ -24,6 +24,8 @@
 
 <a href=https://github.com/rachid-hayoun/minesweeper/tree/Back-End-%F0%9F%94%91>Lien du repository du Démineur</a>
 
+<a href=https://github.com/rachid-hayoun/budget_buddy_rachid>Lien du repositoru logiciel de banque</a>
+
 ## **A propros de moi**
 ### **HOBBIES** 
 - Web Design 🖥️
