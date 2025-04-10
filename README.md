@@ -16,7 +16,6 @@
 
 
 ## **Mes projets**
-### **Projet HTML/CSS**
 
 <a href=https://github.com/rachid-hayoun/THE-FANSITE-/tree/The-FanSite>Lien du repository du Fansite
 
